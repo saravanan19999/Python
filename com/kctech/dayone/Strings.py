@@ -30,6 +30,6 @@
 # print(name.rstrip())
 # print(name.strip())
 
-print("newstring")
+
 
 
